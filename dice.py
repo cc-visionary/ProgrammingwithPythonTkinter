@@ -2,7 +2,7 @@
 This is just a dice program that I made where you press the button roll, and it virtually rolls and gives you a side of the dice.
 It can only be rolled once though and that's it. I don't know how to like reset the command to roll the dice again. 
 
-@author : Potterishpotter 04/05/2018
+@author : Potterishpotter 04/05/2018 9:20PM
 """
 
 from tkinter import *
